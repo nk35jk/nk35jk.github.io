@@ -444,7 +444,7 @@ table td {
 .home-bio {
   margin: auto;
   padding-top: 20px;
-  width: 80%;
+  /* width: 80%; */
 }
 
 .home-posts {
