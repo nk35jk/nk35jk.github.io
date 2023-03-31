@@ -11,6 +11,7 @@ publishDir = "docs"
 canonifyurls = true
 
 # --- gokarna ---
+enableEmoji = true
 # Automatically generate robots.txt
 enableRobotsTXT = true
 

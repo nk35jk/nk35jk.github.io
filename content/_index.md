@@ -1,13 +1,13 @@
 ---
 title: "Naoki Kato"
 date: 2022-08-02T19:45:43+09:00
-draft: true
+draft: false
 type: "page"
 ---
 
 <!-- Computer Vision Researcher / Engineer -->
 
-## Interest
+## About
 
 I'm interested in deep learning, especially learning from unlabeled data.
 
