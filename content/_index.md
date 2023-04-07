@@ -55,7 +55,7 @@ Experience with computer visoin tasks/topics:
 
 - -->
 
-## Patent
+## Patents
 
 - [P2022-18333A](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2022-018333/DEA401A45E8489B69511586113DE62E07DF94501F3CC424967F25D50B634514B/11/ja): プログラム、情報処理方法、情報処理装置及びモデル生成方法, 2022
 - [P2019-192192A](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-192192/C0FDF3D1A9EAE438DCA49761A970E5DC437AD0D579A17FFC5865C3541D8000EB/11/ja): 情報処理装置、情報処理プログラム、及び、情報処理方法, 2019
