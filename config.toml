@@ -133,7 +133,7 @@ enableRobotsTXT = true
   # description = "Computer Vision Researcher / Engineer"
   description = "PhD Student | Freelance Engineer"
   # subdescription = "I'm interested in deep learning, especially learning from unlabeled data."
-  subdescription = "Mainly working on computer vision"
+  subdescription = "Working on computer vision"
 
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#EF4D4D"
