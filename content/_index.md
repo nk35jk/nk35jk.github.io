@@ -30,7 +30,9 @@ Experience with computer vision tasks/topics:
   - Research and development of computer vision algorithms and recognition systems for ADAS.
 - Research Engineer at [Mobility Technologies Co., Ltd.](https://mo-t.com/) (Apr 2020 - Sep 2021)
 - Research Engineer at [DeNA Co., Ltd.](https://dena.com/) (Apr 2019 - Mar 2020)
-- Interned at [DeNA Co., Ltd.](https://dena.com/) (Jul 2017 - Mar 2019)
+- Part-time Research Engineer at [DeNA Co., Ltd.](https://dena.com/) (Sep 2017 - Mar 2019)
+  - Research on 2D human pose estimation.
+- Research Engineer Intern at [DeNA Co., Ltd.](https://dena.com/) (Jul 2017 - Sep 2017)
 
 ## Education
 
