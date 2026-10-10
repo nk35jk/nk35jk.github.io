@@ -9,7 +9,11 @@ type: "page"
 
 ## About
 
-I'm a freelance machine learning engineer specializing in computer vision, with a PhD in Engineering from Keio University. I'm interested in deep learning, especially learning from limited or unlabeled data.
+I'm a freelance machine learning engineer specializing in computer vision, working across research, model development, and production deployment.
+
+- **PhD in Engineering, Keio University (2026)** — researched few-shot adaptation of vision-language models and published two first-author journal papers.
+- **From research to production** — develop scrap iron analysis systems at EVERSTEEL, including recognition algorithms and continuous delivery of ML systems.
+- **Kaggle Competitions Master** — solo gold medalist in CSIRO - Image2Biomass Prediction (12th / 3,805 teams).
 
 Experience with computer vision tasks/topics:
 - Few-shot Adaptation of Foundation Models (PhD research)
