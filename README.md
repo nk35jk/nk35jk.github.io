@@ -29,3 +29,7 @@ hugo new news/<name>.md
 ```shell
 hugo new blog/<name>.md
 ```
+
+### ToDo
+
+- [ ] content の幅をレスポンシブに設定
