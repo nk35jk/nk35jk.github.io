@@ -46,6 +46,25 @@ Experience with computer vision tasks/topics:
 - [RSNA Screening Mammography Breast Cancer Detection](https://www.kaggle.com/competitions/rsna-breast-cancer-detection): 18th / 1,687 (Solo, Silver medal) [[solution]](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/discussion/390975)
 - [Happywhale - Whale and Dolphin Identification](https://www.kaggle.com/competitions/happy-whale-and-dolphin): 14th / 1,588 (Solo, Silver medal) [[solution]](https://www.kaggle.com/competitions/happy-whale-and-dolphin/discussion/320407)
 
+## Publications
+
+### English Papers
+
+- [Naoki Kato, Yoshiki Nota, Yoshimitsu Aoki, Proto-Adapter: Efficient Training-Free CLIP-Adapter for Few-Shot Image Classification, Sensors, 24 (11), 3624, 2024.](https://doi.org/10.3390/s24113624)
+- [Naoki Kato, Hiroto Honda, Yusuke Uchida, Leveraging Temporal Joint Depths for Improving 3D Human Pose Estimation in Video, Global Conference on Consumer Electronics, 2020.](https://arxiv.org/abs/2011.02172)
+- [Naoki Kato, Tianqi Li, Kohei Nishino, Yusuke Uchida, Improving Multi-Person Pose Estimation using Label Correction, arXiv preprint arXiv:1811.03331, 2018.](https://arxiv.org/abs/1811.03331)
+- [Teppei Suzuki, Shuichi Akizuki, Naoki Kato, Yoshimitsu Aoki, Superpixel Convolution for Segmentation, ICIP, 2018.](https://ieeexplore.ieee.org/document/8451721)
+- [Naoki Kato, Kohei Hakozaki, Masamoto Tanabiki, Jyunko Furuyama, Yuji Sato, Yoshimitsu Aoki, Video-Based Person Re-Identification by 3D Convolutional Neural Networks and Improved Parameter Learning, International Conference on Image Analysis and Recognition, 2018.](https://link.springer.com/chapter/10.1007/978-3-319-93000-8_18)
+
+### 和文誌・国内学会
+
+- [加藤直樹, 望月凜平, 青木義満, 線形識別器の残差学習による大規模視覚言語モデルの少数データ適応, 電子情報通信学会論文誌D, J109-D (4), 186-194, 2026.](https://doi.org/10.14923/transinfj.2025PDP0024)
+- 加藤直樹, 田靡雅基, 古山純子, 里雄二, 青木義満, 追跡軌跡の再同定を用いたオンライン複数物体追跡, Vision Engineering Workshop (ViEW), 2018.
+- 加藤直樹, 李天琦, 西野剛平, 内田祐介, 複数人物姿勢推定におけるKnowledge Distillationを用いた教師ラベル補正手法の提案, 画像の認識・理解シンポジウム (MIRU), 2018. [[slide]](https://www.slideshare.net/NaokiKato7/knowledge-distillation-111287242) **学生奨励賞受賞**
+- [加藤直樹, 田靡雅基, 古山純子, 里雄二, 青木義満, 追跡軌跡の再同定を用いたオンライン複数物体追跡, 画像電子学会誌 47 (4), 391-400, 2018.](https://www.jstage.jst.go.jp/article/iieej/47/4/47_391/_article/-char/ja/)
+- 加藤直樹, 田靡雅基, 古山純子, 里雄二, 青木義満, 追跡軌跡の再同定を用いたオンライン複数人物追跡, 画像センシングシンポジウム (SSII), 2018.
+- [加藤直樹, 箱崎浩平, 田靡雅基, 古山純子, 里雄二, ⻘木義満, 畳み込みニューラルネットワークによる距離学習を用いた動画像人物再同定, 精密工学会誌 83 (12)，1117-1124, ​​2017.](https://www.jstage.jst.go.jp/article/jjspe/83/12/83_1117/_article/-char/ja/) **沼田記念論文賞受賞**
+
 ## Writings
 
 - [ラベルなしデータを用いた Dense Tracking の研究動向](https://lab.mo-t.com/blog/survey-dense-tracking)
@@ -66,25 +85,6 @@ Experience with computer vision tasks/topics:
 
 - [P2022-18333A](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2022-018333/DEA401A45E8489B69511586113DE62E07DF94501F3CC424967F25D50B634514B/11/ja): プログラム、情報処理方法、情報処理装置及びモデル生成方法, 2022
 - [P2019-192192A](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-192192/C0FDF3D1A9EAE438DCA49761A970E5DC437AD0D579A17FFC5865C3541D8000EB/11/ja): 情報処理装置、情報処理プログラム、及び、情報処理方法, 2019
-
-## Publications
-
-### English Papers
-
-- [Naoki Kato, Yoshiki Nota, Yoshimitsu Aoki, Proto-Adapter: Efficient Training-Free CLIP-Adapter for Few-Shot Image Classification, Sensors, 24 (11), 3624, 2024.](https://doi.org/10.3390/s24113624)
-- [Naoki Kato, Hiroto Honda, Yusuke Uchida, Leveraging Temporal Joint Depths for Improving 3D Human Pose Estimation in Video, Global Conference on Consumer Electronics, 2020.](https://arxiv.org/abs/2011.02172)
-- [Naoki Kato, Tianqi Li, Kohei Nishino, Yusuke Uchida, Improving Multi-Person Pose Estimation using Label Correction, arXiv preprint arXiv:1811.03331, 2018.](https://arxiv.org/abs/1811.03331)
-- [Teppei Suzuki, Shuichi Akizuki, Naoki Kato, Yoshimitsu Aoki, Superpixel Convolution for Segmentation, ICIP, 2018.](https://ieeexplore.ieee.org/document/8451721)
-- [Naoki Kato, Kohei Hakozaki, Masamoto Tanabiki, Jyunko Furuyama, Yuji Sato, Yoshimitsu Aoki, Video-Based Person Re-Identification by 3D Convolutional Neural Networks and Improved Parameter Learning, International Conference on Image Analysis and Recognition, 2018.](https://link.springer.com/chapter/10.1007/978-3-319-93000-8_18)
-
-### 和文誌・国内学会
-
-- [加藤直樹, 望月凜平, 青木義満, 線形識別器の残差学習による大規模視覚言語モデルの少数データ適応, 電子情報通信学会論文誌D, J109-D (4), 186-194, 2026.](https://doi.org/10.14923/transinfj.2025PDP0024)
-- 加藤直樹, 田靡雅基, 古山純子, 里雄二, 青木義満, 追跡軌跡の再同定を用いたオンライン複数物体追跡, Vision Engineering Workshop (ViEW), 2018.
-- 加藤直樹, 李天琦, 西野剛平, 内田祐介, 複数人物姿勢推定におけるKnowledge Distillationを用いた教師ラベル補正手法の提案, 画像の認識・理解シンポジウム (MIRU), 2018. [[slide]](https://www.slideshare.net/NaokiKato7/knowledge-distillation-111287242) **学生奨励賞受賞**
-- [加藤直樹, 田靡雅基, 古山純子, 里雄二, 青木義満, 追跡軌跡の再同定を用いたオンライン複数物体追跡, 画像電子学会誌 47 (4), 391-400, 2018.](https://www.jstage.jst.go.jp/article/iieej/47/4/47_391/_article/-char/ja/)
-- 加藤直樹, 田靡雅基, 古山純子, 里雄二, 青木義満, 追跡軌跡の再同定を用いたオンライン複数人物追跡, 画像センシングシンポジウム (SSII), 2018.
-- [加藤直樹, 箱崎浩平, 田靡雅基, 古山純子, 里雄二, ⻘木義満, 畳み込みニューラルネットワークによる距離学習を用いた動画像人物再同定, 精密工学会誌 83 (12)，1117-1124, ​​2017.](https://www.jstage.jst.go.jp/article/jjspe/83/12/83_1117/_article/-char/ja/) **沼田記念論文賞受賞**
 
 ## Contact
 
