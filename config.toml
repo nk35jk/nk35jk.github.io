@@ -131,7 +131,7 @@ enableRobotsTXT = true
 
   # Description to display on homepage
   # description = "Computer Vision Researcher / Engineer"
-  description = "PhD Student | Freelance Engineer"
+  description = "Freelance ML Engineer | PhD in Engineering"
   # subdescription = "I'm interested in deep learning, especially learning from unlabeled data."
   subdescription = "Working on Computer Vision"
 

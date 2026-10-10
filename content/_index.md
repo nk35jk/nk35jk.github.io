@@ -9,10 +9,10 @@ type: "page"
 
 ## About
 
-I'm interested in deep learning, especially learning from unlabeled data.
+I'm a freelance machine learning engineer specializing in computer vision, with a PhD in Engineering from Keio University. I'm interested in deep learning, especially learning from limited or unlabeled data.
 
-Experience with computer visoin tasks/topics:
-- Few-shot Adaptation of Foundation Models (current research topic for PhD)
+Experience with computer vision tasks/topics:
+- Few-shot Adaptation of Foundation Models (PhD research)
 - 2D/3D Human Pose Estimation
 - Semantic Segmentation
 - Object Detection
@@ -32,16 +32,19 @@ Experience with computer visoin tasks/topics:
 
 ## Education
 
-- PhD student at Keio University (Apr 2023 - present)
+- PhD in Engineering, Keio University (Apr 2023 - Mar 2026)
   - Adviser: [Prof. Yoshimitsu Aoki](https://aoki-medialab.jp/)
-- BSs/MSs at Keio University majoring in computer science and electronic engineering (Apr 2013 - Mar 2019)
+  - Research: Few-shot adaptation of large-scale vision-language models, balancing recognition performance and computational efficiency.
+  - Doctoral thesis: [大規模視覚言語モデルの少数データ適応 ～学習効率と性能の両立を目指して～](https://aoki-medialab.jp/wp-content/uploads/2026/03/main_kato.pdf)
+- Bachelor's / Master's degrees at Keio University, majoring in computer science and electronic engineering (Apr 2013 - Mar 2019)
 
 ## Kaggle
 
-[nk35jk](https://www.kaggle.com/nk35jk) (Competitions Expert, Highest Rank 695 / 200K)
+[nk35jk](https://www.kaggle.com/nk35jk) (Competitions Master)
 
-- [RSNA Screening Mammography Breast Cancer Detection](https://www.kaggle.com/competitions/rsna-breast-cancer-detection): 18th / 1,687 (Solo, Top 2%, Silver medal) [[solution]](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/discussion/390975)
-- [Happywhale - Whale and Dolphin Identification](https://www.kaggle.com/competitions/happy-whale-and-dolphin): 14th / 1,588 (Solo, Top 1%, Silver medal) [[solution]](https://www.kaggle.com/competitions/happy-whale-and-dolphin/discussion/320407)
+- [CSIRO - Image2Biomass Prediction](https://www.kaggle.com/competitions/csiro-biomass): 12th / 3,805 (Solo, Gold medal)
+- [RSNA Screening Mammography Breast Cancer Detection](https://www.kaggle.com/competitions/rsna-breast-cancer-detection): 18th / 1,687 (Solo, Silver medal) [[solution]](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/discussion/390975)
+- [Happywhale - Whale and Dolphin Identification](https://www.kaggle.com/competitions/happy-whale-and-dolphin): 14th / 1,588 (Solo, Silver medal) [[solution]](https://www.kaggle.com/competitions/happy-whale-and-dolphin/discussion/320407)
 
 ## Writings
 
@@ -68,6 +71,7 @@ Experience with computer visoin tasks/topics:
 
 ### English Papers
 
+- [Naoki Kato, Yoshiki Nota, Yoshimitsu Aoki, Proto-Adapter: Efficient Training-Free CLIP-Adapter for Few-Shot Image Classification, Sensors, 24 (11), 3624, 2024.](https://doi.org/10.3390/s24113624)
 - [Naoki Kato, Hiroto Honda, Yusuke Uchida, Leveraging Temporal Joint Depths for Improving 3D Human Pose Estimation in Video, Global Conference on Consumer Electronics, 2020.](https://arxiv.org/abs/2011.02172)
 - [Naoki Kato, Tianqi Li, Kohei Nishino, Yusuke Uchida, Improving Multi-Person Pose Estimation using Label Correction, arXiv preprint arXiv:1811.03331, 2018.](https://arxiv.org/abs/1811.03331)
 - [Teppei Suzuki, Shuichi Akizuki, Naoki Kato, Yoshimitsu Aoki, Superpixel Convolution for Segmentation, ICIP, 2018.](https://ieeexplore.ieee.org/document/8451721)
@@ -75,6 +79,7 @@ Experience with computer visoin tasks/topics:
 
 ### 和文誌・国内学会
 
+- [加藤直樹, 望月凜平, 青木義満, 線形識別器の残差学習による大規模視覚言語モデルの少数データ適応, 電子情報通信学会論文誌D, J109-D (4), 186-194, 2026.](https://doi.org/10.14923/transinfj.2025PDP0024)
 - 加藤直樹, 田靡雅基, 古山純子, 里雄二, 青木義満, 追跡軌跡の再同定を用いたオンライン複数物体追跡, Vision Engineering Workshop (ViEW), 2018.
 - 加藤直樹, 李天琦, 西野剛平, 内田祐介, 複数人物姿勢推定におけるKnowledge Distillationを用いた教師ラベル補正手法の提案, 画像の認識・理解シンポジウム (MIRU), 2018. [[slide]](https://www.slideshare.net/NaokiKato7/knowledge-distillation-111287242) **学生奨励賞受賞**
 - [加藤直樹, 田靡雅基, 古山純子, 里雄二, 青木義満, 追跡軌跡の再同定を用いたオンライン複数物体追跡, 画像電子学会誌 47 (4), 391-400, 2018.](https://www.jstage.jst.go.jp/article/iieej/47/4/47_391/_article/-char/ja/)
