@@ -28,14 +28,13 @@ Experience with computer vision tasks/topics:
 ## Work Experience
 
 - Freelance Machine Learning Engineer at [EVERSTEEL](https://eversteel.co.jp/) (Apr 2023 - present)
+  - Engaged in the development of scrap iron analysis systems, including research and development of recognition algorithms and continuous delivery of ML systems.
 - Freelance Research Engineer at [SenseTime Japan Ltd.](https://www.sensetime.jp/) (Apr 2023 - Sep 2023)
-  - Research and development of computer vision algorithms and recognition systems for ADAS.
 - Research Engineer at [SenseTime Japan Ltd.](https://www.sensetime.jp/) (Sep 2021 - Mar 2023)
-  - Research and development of computer vision algorithms and recognition systems for ADAS.
+  - Engaged in the development of recognition systems for ADAS and research and development of computer vision algorithms.
 - Research Engineer at [Mobility Technologies Co., Ltd.](https://mo-t.com/) (Apr 2020 - Sep 2021)
 - Research Engineer at [DeNA Co., Ltd.](https://dena.com/) (Apr 2019 - Mar 2020)
 - Part-time Research Engineer at [DeNA Co., Ltd.](https://dena.com/) (Sep 2017 - Mar 2019)
-  - Research on 2D human pose estimation.
 - Research Engineer Intern at [DeNA Co., Ltd.](https://dena.com/) (Jul 2017 - Sep 2017)
 
 ## Education
