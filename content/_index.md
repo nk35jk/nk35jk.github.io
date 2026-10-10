@@ -43,7 +43,8 @@ Experience with computer vision tasks/topics:
   - Adviser: [Prof. Yoshimitsu Aoki](https://aoki-medialab.jp/)
   - Research: Few-shot adaptation of large-scale vision-language models, balancing recognition performance and computational efficiency.
   - Doctoral thesis: [大規模視覚言語モデルの少数データ適応 ～学習効率と性能の両立を目指して～](https://aoki-medialab.jp/wp-content/uploads/2026/03/main_kato.pdf)
-- Bachelor's / Master's degrees at Keio University, majoring in computer science and electronic engineering (Apr 2013 - Mar 2019)
+- Master's degree, Keio University (Apr 2017 - Mar 2019)
+- Bachelor's degree, Keio University (Apr 2013 - Mar 2017)
 
 ## Kaggle
 
@@ -74,6 +75,7 @@ Experience with computer vision tasks/topics:
 
 ## Writings
 
+- [物体検出モデルの推論高速化入門](https://zenn.dev/eversteel_tech/articles/51f9b749b8f051)
 - [ラベルなしデータを用いた Dense Tracking の研究動向](https://lab.mo-t.com/blog/survey-dense-tracking)
 - [コンピュータビジョンの最新論文調査 3D Human Pose Estimation 編](https://engineering.dena.com/blog/2019/12/cv-papers-19-3d-human-pose-estimation/)
 - [コンピュータビジョンの最新論文調査 2D Human Pose Estimation 編](https://engineering.dena.com/blog/2019/11/cv-papers-19-2d-human-pose-estimation/)
