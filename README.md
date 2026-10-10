@@ -33,3 +33,8 @@ hugo new blog/<name>.md
 ### ToDo
 
 - [ ] content の幅をレスポンシブに設定
+
+### Theme
+
+The customized Gokarna theme is tracked directly in `themes/gokarna`.
+Theme changes should be committed in this repository.
