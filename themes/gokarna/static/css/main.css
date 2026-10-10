@@ -443,8 +443,36 @@ table td {
 
 .home-bio {
   margin: auto;
+  max-width: 860px;
   padding-top: 20px;
-  /* width: 80%; */
+}
+
+.home-bio > .post.container {
+  display: block;
+  padding-left: 0;
+}
+
+.home-bio h2 {
+  scroll-margin-top: 80px;
+}
+
+.home-section-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4rem 0.8rem;
+  margin: 1rem auto 0;
+  max-width: 860px;
+}
+
+.home-section-nav a {
+  padding: 0.5rem;
+  text-underline-offset: 0.25em;
+}
+
+.home-section-nav a:focus-visible {
+  outline: 2px solid var(--accent-color);
+  outline-offset: 2px;
 }
 
 .home-posts {
